@@ -1,4 +1,3 @@
-
 const userInput = require("./lib/userInput");
 const createSVG = require("./lib/createSVG");
 const writeToFile = require("./lib/writeToFile");
