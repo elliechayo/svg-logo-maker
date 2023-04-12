@@ -27,6 +27,7 @@ Each shape class is tested for a render() method that returns a string for the c
 - Node 
 - Inquirer package 8.2.4
 - npm init
+- npm jest
 
 ## Usage
 <hr>
