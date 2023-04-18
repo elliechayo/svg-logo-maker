@@ -52,7 +52,7 @@ WHEN user opens the `logo.svg` file in a browser, a 300x200 pixel image is shown
 The following a walkthrough video shows the application appearance and functionality:
 
 
-[![walkthrough image](/assests/image-2.png)](https://drive.google.com/file/d/1sQonJ7tdFLuJzLYpKRW7qPPt18DFvdG9/view)
+[![walkthrough image](/assests/image-2.png)](https://drive.google.com/file/d/1mOQhkyXi80uaDbglj4JQBaLEczYBIGc4/view)
 
  **Mock-Ups**
  <hr>
